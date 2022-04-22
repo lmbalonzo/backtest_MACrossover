@@ -20,3 +20,4 @@
   - Compare different stocks
 # Reference:
   - https://www.youtube.com/watch?v=ymQ4WhO5Xc0
+  - https://www.investopedia.com/articles/active-trading/052014/how-use-moving-average-buy-stocks.asp
