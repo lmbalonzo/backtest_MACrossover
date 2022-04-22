@@ -10,8 +10,13 @@
   - numpy
   - datetime
   - matplotlib
+# Modifications
+  - Used faster MAs to simulate shorter term trading
+  - Shortened time period of observation
+  - Modelled TSLA
 # Future Improvements:
   - Add other criteria for long signal (ex: minumum ADX)
   - Compare returns and drawdowns using different MAs
+  - Compare different stocks
 # Reference:
   - https://www.youtube.com/watch?v=ymQ4WhO5Xc0
